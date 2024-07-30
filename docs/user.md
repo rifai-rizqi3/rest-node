@@ -8,9 +8,9 @@ Request Body :
 
 ```json
 {
-  "username" : "pzn",
+  "username" : "rnrifai",
   "password" : "rahasia",
-  "name" : "Programmer Zaman Now"
+  "name" : "Rizqi Nur Rifai"
 }
 ```
 
@@ -19,8 +19,8 @@ Response Body Success :
 ```json
 {
   "data" : {
-    "username" : "pzn",
-    "name" : "Programmer Zaman Now"
+    "username" : "rnrifai",
+    "name" : "Rizqi Nur Rifai"
   }
 }
 ```
@@ -41,7 +41,7 @@ Request Body :
 
 ```json
 {
-  "username" : "pzn",
+  "username" : "rnrifai",
   "password" : "rahasia"
 }
 ```
@@ -75,7 +75,7 @@ Request Body :
 
 ```json
 {
-  "name" : "Programmer Zaman Now Lagi", // optional
+  "name" : "Rizqi Nur Rifai Lagi", // optional
   "password" : "new password" // optional
 }
 ```
@@ -85,8 +85,8 @@ Response Body Success :
 ```json
 {
   "data" : {
-    "username" : "pzn",
-    "name" : "Programmer Zaman Now Lagi"
+    "username" : "rnrifai",
+    "name" : "Rizqi Nur Rifai Lagi"
   }
 }
 ```
@@ -111,8 +111,8 @@ Response Body Success:
 ```json
 {
   "data" : {
-    "username" : "pzn",
-    "name" : "Programmer Zaman Now"
+    "username" : "rnrifai",
+    "name" : "Rizqi Nur Rifai"
   }
 }
 ```
